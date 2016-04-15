@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Campus Reporter</string>
+    <!--
+    <string name="photo"></string>
+    <string name="send"></string>
+    <string name="record"></string>
+    <string name="stop"></string>
+    <string name="play"></string>
+     -->
+
+    <string name="photo">Take Photo</string>
+    <string name="send">Send</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+
+    <string name="instructions">1. Write/Record the problem, building, and room number.\n\n2.Take a photo (optional).\n\n3.Send it.\n\nThank you.</string>
+</resources>
